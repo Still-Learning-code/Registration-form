@@ -2,8 +2,6 @@
 
 Last active April 14, 2023 09:58
 
-Code
-Revisions 3
 Registration Form
 index.html
 <!DOCTYPE html>
@@ -39,10 +37,6 @@ index.html
  
   </body>
 </html>
-registration-form.markdown
-Registration Form
-
-A Pen by Mike McKenna on CodePen.
 
 License.
 script.js
@@ -138,9 +132,8 @@ label {
  
 @Still-Learning-code
 Author
-Still-Learning-code commented Dec 21, 2022
+Still-Learning-code commented on Dec 21, 2022
 
 Registration Form with JavaScript
 @Still-Learning-code
 
-Registration Form
